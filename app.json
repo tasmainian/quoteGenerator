@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstApp",
-    "slug": "firstApp",
+    "name": "quoteApp",
+    "slug": "quouteApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
